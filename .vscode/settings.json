@@ -80,8 +80,7 @@
         "*.fdb_latexmk",
         "*.gz"
     ],
-    "latex-workshop.view.pdf.viewer": "tab",
-    "python.pythonPath": "P:\\Anaconda3\\python.exe"
+    "latex-workshop.view.pdf.viewer": "tab"
     // "latex-workshop.view.pdf.viewer": "external",
     // "latex-workshop.view.pdf.external.command": {
     //     "command": "D:\\_Portable\\SumatraPDF\\SumatraPDF.exe",
